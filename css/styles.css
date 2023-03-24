@@ -96,6 +96,15 @@ body {
   background: #404bbf;
 }
 
+.second-section {
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+}
+
+.third-section {
+    line-height: 1.11;
+}
+
 .section-title {
   font-size: 36px;
   line-height: 1.2;
