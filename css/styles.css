@@ -96,18 +96,19 @@ body {
   background: #404bbf;
 }
 
+/* SECTION TWO */
+
 .second-section {
+  font-weight: 500;
   line-height: 1.2;
   letter-spacing: 0.02em;
 }
 
-.third-section {
-    line-height: 1.11;
-}
+/* SECTION THREE */
 
 .section-title {
   font-size: 36px;
-  line-height: 1.2;
+  line-height: 1.11;
   text-align: center;
   letter-spacing: 0.02em;
   text-transform: capitalize;
@@ -126,8 +127,15 @@ body {
   letter-spacing: 0.02em;
 }
 
+/* SECTION FOUR */
+
 .container-team {
   background: #f4f4fd;
+}
+
+.fourth-section {
+    font-size: 36px;
+    line-height: 1.11;
 }
 
 .team-list {
