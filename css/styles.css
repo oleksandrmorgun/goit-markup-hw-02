@@ -4,7 +4,7 @@
 }
 
 body {
-  font-family: "Roboto", sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-size: 16px;
   color: #434455;
   background-color: #ffffff;
@@ -21,7 +21,7 @@ body {
 /* HEADER */
 
 .logo {
-  font-family: "Raleway", sans-serif;
+  font-family: 'Raleway', sans-serif;
   font-weight: 800;
   font-size: 18px;
   line-height: 1.17;
@@ -107,6 +107,22 @@ body {
   letter-spacing: 0.02em;
 }
 
+.subtitle {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+
+.description {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+
 /* SECTION THREE */
 
 .section-title {
@@ -118,21 +134,6 @@ body {
   color: #2e2f42;
 }
 
-.subtitle {
-  font-weight: 500;
-  font-size: 20px;
-  line-height: 1.2;
-letter-spacing: 0.02em;
-  color: #2e2f42;
-}
-
-.description {
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-  color: #434455;
-}
-
 /* SECTION FOUR */
 
 .container-team {
@@ -140,9 +141,12 @@ letter-spacing: 0.02em;
 }
 
 .fourth-section {
-  font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
+  text-align: center;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+  color: #2e2f42;
 }
 
 .team-list {
